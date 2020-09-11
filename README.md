@@ -38,7 +38,7 @@
 <img src="https://github.com/sillytuktuk2020/BlackFish/blob/master/IMG_20200911_133512.jpg"/>
 
 ### <<< If you copy , Then Give me The Credits >>>
-### > Heartily Thanks To KP brother and Sameer khan bhai ??
+### > Heartily Thanks To KP brother and Sameer khan bhai ###
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github-Sillytuktuk2020-green?style=for-the-badge&logo=github)](https://github.com/sillytuktuk2020)
 [![Instagram](https://img.shields.io/badge/IG-decent__deep__raadhe-yellowgreen?style=for-the-badge&logo=instagram)](https://www.instagram.com/decent_deep_raadhe)
