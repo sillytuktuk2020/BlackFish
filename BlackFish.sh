@@ -28,11 +28,11 @@ echo -e "\e[1;30;46m######| |_/ / | (_| | (__|   <| |   | \__ \ | | |##### \e[0m
 echo -e "\e[1;30;46m######\____/|_|\__,_|\___|_|\_\_|   |_|___/_| |_|##### \e[0m"
                                            
 echo
-echo -e "\e[30;38;5;82m Modify By Me \e[30;48;5;82m AKSHAY DHAWAN  \e[0m"
-echo -e "\e[30;48;5;82m   Heartily Thanks To \e[30;38;5;82m   My Bro KP & Sameer Khan \e[0m"
+echo -e "\e[30;38;5;82m Modify By Me \e[30;38;5;82m AKSHAY DHAWAN  \e[0m"
+echo -e "\e[30;38;5;82m   Heartily Thanks To \e[30;38;5;82m My Bro KP & Sameer Khan \e[0m"
 echo
 echo
-echo -e "\e[1;33;46m ### Phishing URL ###\e[0m"
+echo -e "\e[1;45;97m ### Phishing URL ###\e[0m"
 echo
 echo -n "Paste Phishing URL here (with http or https): "
 read phish
@@ -40,7 +40,7 @@ url_checker $phish
 short=$(curl -s https://da.gd/s/?url=${phish})
 shorter=${short#https://}
 echo
-echo -e "\e[1;33;46m ### Masking Domain ###\e[0m"
+echo -e "\e[1;45;97m ### Masking Domain ###\e[0m"
 echo 'Domain to mask the Phishing URL (with http or https), (ex https://google.com, http://anything.org) :'
 echo
 read mask
