@@ -21,7 +21,7 @@
 * `apt install git -y`
 * `git clone https://github.com/sillytuktuk2020/BlackFish.git `
 * `cd BlackFish`
-* ` chmod +x BlackFish.py `
+* ` chmod +x BlackFish.sh `
 
 
 **** ` For Education purpose only `
