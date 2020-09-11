@@ -1,6 +1,13 @@
 #!/system/bin/sh
 # Bash Script for Hide Phishing URL Modify by AKSHAY DHAWAN
 
+pkg install figlet
+
+clear
+
+figlet -f big "SillyTuktuk"
+
+date
 
 url_checker() {
     if [ ! "${1//:*}" = http ]; then
