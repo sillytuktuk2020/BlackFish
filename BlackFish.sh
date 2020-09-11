@@ -28,8 +28,8 @@ echo -e "\e[1;30;46m######| |_/ / | (_| | (__|   <| |   | \__ \ | | |##### \e[0m
 echo -e "\e[1;30;46m######\____/|_|\__,_|\___|_|\_\_|   |_|___/_| |_|##### \e[0m"
                                            
 echo
-echo -e "\e[40;38;5;82m For contact \e[30;48;5;82m msg me on this id  \e[0m"
-echo -e "\e[30;48;5;82m   Heartily Thanks To \e[40;38;5;82m   My Bro KP & Sameer Khan \e[0m"
+echo -e "\e[30;38;5;82m Modify By Me \e[30;48;5;82m AKSHAY DHAWAN \e[0m"
+echo -e "\e[30;48;5;82m   Heartily Thanks To \e[30;38;5;82m   My Bro KP & Sameer Khan \e[0m"
 echo
 echo
 echo -e "\e[1;33;46m ### Phishing URL ###\e[0m"
