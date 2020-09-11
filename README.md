@@ -31,8 +31,8 @@
  *.      ` bash BlackFish.sh  `
 
 ### > ` Enter Ngrok url ?? https://f0891690dc85.ngrok.io/ `
-###> ` Enter origal url of  related to your phishing page like ??https://facebook.com/free-money` 
-###> ` Press enter two times  <--' `
+###> ` Enter origal url of  related to your phishing page like ` 
+###> ` Press enter two times  <--' `https://facebook.com/sunny-leone-@da.gd/S5cAvI
 <br>
 <p align="center">
 <img src="https://github.com/sillytuktuk2020/BlackFish/blob/master/IMG_20200911_133512.jpg"/>
