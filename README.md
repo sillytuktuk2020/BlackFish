@@ -4,7 +4,7 @@
 <a href="#"><img title="MODIFY BY SILLYTUKTUK " src="https://img.shields.io/badge/Sillytuktuk-Creations-yellowgreen?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Host" src="https://github.com/sillytuktuk2020/BlackFish/blob/master/IMG_20200911_133512.jpg"></a>
+<a href="#"><img title="Host" src="https://github.com/sillytuktuk2020/BlackFish/blob/master/Logo.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/SillyTuktuk"><img title="Author" src="https://img.shields.io/badge/modify%20by-Sillytuktuk2020-yellowgreen?style=for-the-badge&logo=github"></a>
