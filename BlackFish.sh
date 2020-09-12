@@ -1,13 +1,21 @@
 #!/system/bin/sh
 # Bash Script for Hide Phishing URL Modify by AKSHAY DHAWAN
-
-pkg install figlet
-
 clear
+date 
+if (figlet -f small created by : );then 
+        figlet -f big sillytuktuk 
+else 
+	pkg install figlet 
+	pkg install lolcat 
+        figlet -f small created by 
+	figlet -f big sillytuktuk 
+fi 
 
-figlet -f big "SillyTuktuk"
 
-date
+
+
+
+
 
 url_checker() {
     if [ ! "${1//:*}" = http ]; then
