@@ -1,7 +1,7 @@
 #!/system/bin/sh
 # Bash Script for Hide Phishing URL Modify by AKSHAY DHAWAN
 clear
-date 
+
 if (figlet -f small created by : );then 
         figlet -f big sillytuktuk 
 else 
@@ -34,6 +34,7 @@ echo -e "\e[1;30;46m######| |_/ / | __ _  ___| | _| |_   _ ___| |__########## \e
 echo -e "\e[1;30;46m######| ___ \ |/ _  |/ __| |/ /  _| | / __| '_ \ ######### \e[0m"
 echo -e "\e[1;30;46m######| |_/ / | (_| | (__|   <| |   | \__ \ | | |####### \e[0m"
 echo -e "\e[1;30;46m######\____/|_|\__,_|\___|_|\_\_|   |_|___/_| |_|####### \e[0m"
+
           date                              
 echo
 echo -e "\e[30;38;5;82m Modify By Me \e[30;38;5;82m AKSHAY DHAWAN  \e[0m"
